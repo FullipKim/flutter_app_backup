@@ -1,21 +1,6 @@
-# Smart controller remote app UI TEMPLATE
+# 아마 ui만 있는거같다.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/skenderl/Flutter-UniversalController)
-![GitHub language count](https://img.shields.io/github/languages/count/skenderl/Flutter-UniversalController)
+그래도컨트롤러로서 ㅈ적당히 잘 해뒀으니까 괜찮을거다
 
-This is a flutter template for a smart universal controller inspired from [Jitu Raut](https://dribbble.com/jituraut)'s [design](https://dribbble.com/shots/5960398-Smart-controller-remote-app).
-
-## 📸 Screenshots
-
-Dark | Gif | Light | 
-:-------------------------:|:-------------------------:|:-------------------------:|
-<img src="screens/screen_dark.jpg" width="300" height="600"/> |<img src="screens/screen_gif.gif" width="300" height="600"/> |<img src="screens/screen_light.jpg" width="300" height="600"/> 
-
-## Authors
-
-* **Skender Lahdhiri** - *flutter template* - [Github](https://github.com/skenderl)
-* **Jitu Raut** - *inspiration* - [dribbble](https://dribbble.com/jituraut)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## 정리
+노션에 정리하다가 날새면 잘거같아서 걍 여까지 하고 잔다
